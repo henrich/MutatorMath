@@ -1,0 +1,5 @@
+mutatormath (0.0.1~20151122-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Hideki Yamane <henrich@debian.org>  Sun, 22 Nov 2015 22:22:15 +0900
